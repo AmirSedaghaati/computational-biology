@@ -23,9 +23,10 @@
 ## Projects Portfolio
 
 ### Week 1: Python Foundations
+### Week 1: Python Foundations
 - **Day 1**: [DNA Sequence Analyzer](week1/Day1_Biology_Basics.ipynb) - Basic sequence statistics and GC content calculator
 - **Day 2**: [DNA Manipulation Toolkit](week1/Day2_DNA_Manipulation.ipynb) - Complement generator and multi-sequence analysis
-
+- **Day 3**: [ORF Finder & Control Structures](week1/Day3_Control_Structures_Biology.ipynb) - Real bioinformatics algorithms with loops and conditionals
 ---
 *Started: March 25, 2024 | Updated: Daily*
 ## Weekly Progress
