@@ -20,6 +20,11 @@
 
 ## Projects Portfolio
 *Projects will be added as I progress through the bootcamp*
+## Projects Portfolio
+
+### Week 1: Python Foundations
+- **Day 1**: [DNA Sequence Analyzer](week1/Day1_Biology_Basics.ipynb) - Basic sequence statistics and GC content calculator
+- **Day 2**: [DNA Manipulation Toolkit](week1/Day2_DNA_Manipulation.ipynb) - Complement generator and multi-sequence analysis
 
 ---
 *Started: March 25, 2024 | Updated: Daily*
