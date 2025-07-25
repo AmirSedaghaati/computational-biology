@@ -23,3 +23,5 @@
 
 ---
 *Started: March 25, 2024 | Updated: Daily*
+## Weekly Progress
+- [x] Week 1: Python Foundations + Git/GitHub (Days 1-2 completed)
