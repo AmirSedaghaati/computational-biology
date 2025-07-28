@@ -1,33 +1,30 @@
-# Computational Biology Bootcamp 
+# Computational Biology Bootcamp - Summer 2025
 
-**Goal:** Transform from biochemist to computational biologist 
+**Goal:** Transform from biochemist to computational biologist in 8 weeks
 
-## About Me
-- Background: Biochemistry
-- Focus Areas: Structural Biology, Molecular Modeling, Drug Discovery
+## About This Project
+- **Background:** Biochemistry → Computational Biology
+- **Focus Areas:** Structural Biology, Molecular Modeling, Drug Discovery  
+- **Programming Experience:** Complete beginner → Professional developer
+- **Timeline:** July 25 - September 19, 2025
 
-
-
-## Weekly Progress
-- [ ] Week 1: Python Foundations + Git/GitHub
-- [ ] Week 2: Python Data Handling
-- [ ] Week 3: Biopython + Biological Applications
-- [ ] Week 4: Advanced Python + Statistics
-- [ ] Week 5: R Foundations
-- [ ] Week 6: R Bioinformatics
-- [ ] Week 7: Specialized Applications
-- [ ] Week 8: Advanced Topics + Portfolio
-
-## Projects Portfolio
-*Projects will be added as I progress through the bootcamp*
-## Projects Portfolio
-
-### Week 1: Python Foundations
-### Week 1: Python Foundations
-- **Day 1**: [DNA Sequence Analyzer](week1/Day1_Biology_Basics.ipynb) - Basic sequence statistics and GC content calculator
-- **Day 2**: [DNA Manipulation Toolkit](week1/Day2_DNA_Manipulation.ipynb) - Complement generator and multi-sequence analysis
-- **Day 3**: [ORF Finder & Control Structures](week1/Day3_Control_Structures_Biology.ipynb) - Real bioinformatics algorithms with loops and conditionals
 ---
-*Started: March 25, 2024 | Updated: Daily*
-## Weekly Progress
-- [x] Week 1: Python Foundations + Git/GitHub (Days 1-2 completed)
+
+## 📚 Reusable Libraries
+
+### BioinformaticsToolkit v1.0.0
+**Location:** [`library/BioinformaticsToolkit.ipynb`](library/BioinformaticsToolkit.ipynb)
+
+Professional toolkit for DNA sequence analysis featuring:
+- ✅ Sequence validation and error handling
+- ✅ Comprehensive composition analysis  
+- ✅ ORF (Open Reading Frame) finding
+- ✅ DNA to protein translation
+- ✅ Reverse complement calculation
+- ✅ Batch processing capabilities
+- ✅ Multi-format data export
+
+**Usage Example:**
+```python
+toolkit = BioinformaticsToolkit()
+results = toolkit.comprehensive_analysis(dna_sequence, "gene_name")
